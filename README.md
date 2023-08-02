@@ -1,3 +1,2 @@
-# Film
-# ilk
+
 # film-sitesi
